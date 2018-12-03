@@ -23,11 +23,13 @@ Release this project as a base for my dev portfolio
   
 # Project Outline
 ## The purpose of this program:
-Fundamentally understand Pointers
-Clarify the difference between:
-## pointer
-## the 'address of' operator
-## the 'dereference' operator
-## the difference between pointer, *pointer, and &pointer
-## allocating and freeing memory
-## what a void pointer is
+#### Fundamentally understand Pointers
+#### Clarify the difference between:
+```
+pointer
+the 'address of' operator
+the 'dereference' operator
+the difference between pointer, *pointer, and &pointer
+allocating and freeing memory
+what a void pointer is
+```
