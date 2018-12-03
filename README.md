@@ -5,7 +5,7 @@ My name is Justin Westra and this will be my first project on Github
 
 I'm using the github platform as a tool to understand version control in preparation for working as a programmer
 
-## Some background:
+## Background
 I studied computer science in college and worked for about 2 years in the field
 After some personal setbacks I sought out a change in field and have dabbled in a myriad of career paths since then
 
@@ -21,8 +21,8 @@ So I've decided to return to computer science and get myself up to speed on what
 #### Release a simple C project demonstrating pointers
 #### Release this project as a base for my dev portfolio
   
-# Project Outline
-## The purpose of this program:
+## Project Outline
+### The purpose of this program:
 #### Fundamentally understand Pointers
 #### Clarify the difference between:
 ```
