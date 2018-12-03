@@ -22,7 +22,7 @@ Release a simple C project demonstrating pointers
 Release this project as a base for my dev portfolio
   
 # Project Outline
-The purpose of this program:
+## The purpose of this program:
 Fundamentally understand Pointers
 Clarify the difference between:
 ## pointer
