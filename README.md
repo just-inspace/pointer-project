@@ -14,12 +14,12 @@ In those 4 years, I've come to appreciate my love of technology as an integral p
 So I've decided to return to computer science and get myself up to speed on what has changed
 
 ## Project Goals
-The goal of this first project is as follows:
+### The goal of this first project is as follows:
 
-Become comfortable with Github's GUI
-Download and work with Git at the command line
-Release a simple C project demonstrating pointers
-Release this project as a base for my dev portfolio
+#### Become comfortable with Github's GUI
+#### Download and work with Git at the command line
+#### Release a simple C project demonstrating pointers
+#### Release this project as a base for my dev portfolio
   
 # Project Outline
 ## The purpose of this program:
