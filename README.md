@@ -21,15 +21,13 @@ Download and work with Git at the command line
 Release a simple C project demonstrating pointers
 Release this project as a base for my dev portfolio
   
-##/************************************/
-##/*          PROJECT OUTLINE         */
-##/************************************/
-// The purpose of this program:
-// Fundamentally understand Pointers
-// Clarify the difference between:
-	// a pointer
-	// the 'address of' operator
-	// the 'dereference' operator
-	// the difference between pointer, *pointer, and &pointer
-	// allocating and freeing memory
-	// what a void pointer is
+# Project Outline
+The purpose of this program:
+Fundamentally understand Pointers
+Clarify the difference between:
+## pointer
+## the 'address of' operator
+## the 'dereference' operator
+## the difference between pointer, *pointer, and &pointer
+## allocating and freeing memory
+## what a void pointer is
